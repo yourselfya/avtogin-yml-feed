@@ -1,0 +1,2155 @@
+<yml_catalog>
+<shop>
+<categories>
+<category id="101">Диагностика</category>
+<category id="102">Техническое обслуживание</category>
+<category id="103">Двигатель</category>
+<category id="104">Трансмиссия</category>
+<category id="105">Подвеска</category>
+<category id="106">Рулевое управление</category>
+<category id="107">Тормозная система</category>
+<category id="108">Электрика</category>
+<category id="109">Кондиционер и климат</category>
+<category id="110">Колеса и шины</category>
+<category id="111">Кузов и внешний вид</category>
+<category id="112">Запчасти</category>
+<category id="113">Автоподбор</category>
+<category id="114">B2B</category>
+<category id="115">Мототехника</category>
+<category id="116">Популярные проблемы</category>
+<category id="117">Ремонт по маркам</category>
+</categories>
+<offers>
+<offer id="AVTOGIN-0001">
+<name>Компьютерная диагностика автомобиля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Компьютерная диагностика автомобиля в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Компьютерная диагностика автомобиля в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0002">
+<name>Компьютерная диагностика двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Компьютерная диагностика двигателя в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Компьютерная диагностика двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0003">
+<name>Компьютерная диагностика АКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Компьютерная диагностика АКПП в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Компьютерная диагностика АКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0004">
+<name>Сканирование ошибок автомобиля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Сканирование ошибок автомобиля в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Сканирование ошибок автомобиля в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0005">
+<name>Диагностика двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика двигателя в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0006">
+<name>Диагностика подвески</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика подвески в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика подвески в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0007">
+<name>Диагностика ходовой части</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика ходовой части в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика ходовой части в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0008">
+<name>Диагностика рулевого управления</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика рулевого управления в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика рулевого управления в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0009">
+<name>Диагностика тормозной системы</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика тормозной системы в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика тормозной системы в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0010">
+<name>Диагностика системы охлаждения</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика системы охлаждения в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика системы охлаждения в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0012">
+<name>Диагностика системы отопления</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика системы отопления в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика системы отопления в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0013">
+<name>Диагностика автоэлектрики</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика автоэлектрики в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика автоэлектрики в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0014">
+<name>Поиск утечки тока</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Поиск утечки тока в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Поиск утечки тока в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0015">
+<name>Диагностика стартера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика стартера в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика стартера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0016">
+<name>Диагностика генератора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика генератора в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика генератора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0017">
+<name>Диагностика вариатора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика вариатора в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика вариатора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0018">
+<name>Диагностика полного привода</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика полного привода в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика полного привода в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0019">
+<name>Комплексная диагностика автомобиля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Комплексная диагностика автомобиля в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Комплексная диагностика автомобиля в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0020">
+<name>Диагностика автомобиля перед дальней поездкой</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>101</categoryId>
+<description>Диагностика автомобиля перед дальней поездкой в Екатеринбурге. Проверяем состояние узлов, ищем причину неисправности и даем понятные рекомендации по ремонту без навязывания лишних работ.</description>
+<shortDescription>Диагностика автомобиля перед дальней поездкой в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0021">
+<name>Плановое ТО</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Плановое ТО в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Плановое ТО в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0022">
+<name>Комплексное техническое обслуживание</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Комплексное техническое обслуживание в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Комплексное техническое обслуживание в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0023">
+<name>Сезонное обслуживание автомобиля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Сезонное обслуживание автомобиля в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Сезонное обслуживание автомобиля в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0024">
+<name>Подготовка автомобиля к лету</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Подготовка автомобиля к лету в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Подготовка автомобиля к лету в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0025">
+<name>Подготовка автомобиля к зиме</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Подготовка автомобиля к зиме в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Подготовка автомобиля к зиме в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0026">
+<name>Замена масла в двигателе</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в двигателе в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в двигателе в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0027">
+<name>Замена масла и масляного фильтра двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла и масляного фильтра двигателя в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла и масляного фильтра двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0028">
+<name>Замена масла в АКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в АКПП в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в АКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0029">
+<name>Замена масла в МКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в МКПП в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в МКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0030">
+<name>Замена масла в вариаторе</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в вариаторе в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в вариаторе в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0031">
+<name>Замена масла в РКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в РКПП в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в РКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0032">
+<name>Замена масла в раздаточной коробке</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в раздаточной коробке в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в раздаточной коробке в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0033">
+<name>Замена масла в переднем редукторе</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в переднем редукторе в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в переднем редукторе в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0034">
+<name>Замена масла в заднем редукторе</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масла в заднем редукторе в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масла в заднем редукторе в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0035">
+<name>Замена антифриза</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена антифриза в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена антифриза в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0038">
+<name>Замена тормозной жидкости</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена тормозной жидкости в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена тормозной жидкости в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0039">
+<name>Замена жидкости ГУР</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена жидкости ГУР в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена жидкости ГУР в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0041">
+<name>Замена жидкости сцепления</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена жидкости сцепления в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена жидкости сцепления в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0042">
+<name>Замена масляного фильтра</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>500</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена масляного фильтра в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена масляного фильтра в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0043">
+<name>Замена воздушного фильтра</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>600</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена воздушного фильтра в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена воздушного фильтра в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0044">
+<name>Замена салонного фильтра</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>600</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена салонного фильтра в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена салонного фильтра в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0045">
+<name>Замена топливного фильтра</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена топливного фильтра в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена топливного фильтра в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0046">
+<name>Замена свечей зажигания</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена свечей зажигания в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена свечей зажигания в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0047">
+<name>Замена свечей накаливания</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена свечей накаливания в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена свечей накаливания в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0048">
+<name>Замена ремней навесного оборудования</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>102</categoryId>
+<description>Замена ремней навесного оборудования в AvtoGin. Выполняем обслуживание автомобиля с подбором расходников, фиксацией работ и понятными рекомендациями по дальнейшей эксплуатации.</description>
+<shortDescription>Замена ремней навесного оборудования в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0049">
+<name>Ремонт двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Ремонт двигателя в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Ремонт двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0050">
+<name>Капитальный ремонт двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Капитальный ремонт двигателя в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Капитальный ремонт двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0051">
+<name>Замена двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>35000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена двигателя в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0052">
+<name>Контрактный двигатель с установкой</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>35000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Контрактный двигатель с установкой в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Контрактный двигатель с установкой в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0053">
+<name>Замена ГБЦ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>20000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена ГБЦ в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена ГБЦ в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0054">
+<name>Замена прокладки ГБЦ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>15000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена прокладки ГБЦ в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена прокладки ГБЦ в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0055">
+<name>Замена прокладки клапанной крышки</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена прокладки клапанной крышки в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена прокладки клапанной крышки в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0056">
+<name>Замена цепи ГРМ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена цепи ГРМ в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена цепи ГРМ в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0057">
+<name>Замена ремня ГРМ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена ремня ГРМ в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена ремня ГРМ в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0058">
+<name>Замена натяжителя цепи</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена натяжителя цепи в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена натяжителя цепи в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0059">
+<name>Замена роликов ГРМ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена роликов ГРМ в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена роликов ГРМ в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0060">
+<name>Замена помпы</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена помпы в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена помпы в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0061">
+<name>Замена термостата</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена термостата в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена термостата в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0062">
+<name>Замена радиатора охлаждения</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена радиатора охлаждения в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена радиатора охлаждения в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0063">
+<name>Замена радиатора печки</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>7000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена радиатора печки в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена радиатора печки в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0064">
+<name>Замена патрубков охлаждения</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена патрубков охлаждения в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена патрубков охлаждения в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0065">
+<name>Промывка системы охлаждения</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Промывка системы охлаждения в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Промывка системы охлаждения в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0066">
+<name>Замена опоры двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена опоры двигателя в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена опоры двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0067">
+<name>Прочистка дроссельной заслонки</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Прочистка дроссельной заслонки в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Прочистка дроссельной заслонки в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0068">
+<name>Аппаратная промывка форсунок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Аппаратная промывка форсунок в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Аппаратная промывка форсунок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0069">
+<name>Замена форсунок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена форсунок в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена форсунок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0070">
+<name>Замена катушек зажигания</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена катушек зажигания в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена катушек зажигания в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0071">
+<name>Замена турбины</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>8000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Замена турбины в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Замена турбины в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0072">
+<name>Ремонт турбины</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Ремонт турбины в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Ремонт турбины в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0073">
+<name>Устранение течи масла</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Устранение течи масла в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Устранение течи масла в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0074">
+<name>Устранение течи антифриза</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>103</categoryId>
+<description>Устранение течи антифриза в Екатеринбурге. Сначала диагностируем причину, согласовываем работы и запчасти, затем выполняем ремонт с понятным результатом.</description>
+<shortDescription>Устранение течи антифриза в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0075">
+<name>Замена сцепления</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена сцепления в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена сцепления в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0076">
+<name>Замена комплекта сцепления</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена комплекта сцепления в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена комплекта сцепления в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0077">
+<name>Замена выжимного подшипника</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена выжимного подшипника в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена выжимного подшипника в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0078">
+<name>Замена маховика</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена маховика в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена маховика в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0079">
+<name>Ремонт МКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Ремонт МКПП в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Ремонт МКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0080">
+<name>Замена коробки передач</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена коробки передач в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена коробки передач в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0081">
+<name>Замена АКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>12000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена АКПП в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена АКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0082">
+<name>Замена вариатора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>12000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена вариатора в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена вариатора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0083">
+<name>Замена привода</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена привода в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена привода в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0084">
+<name>Замена внутреннего ШРУСа</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена внутреннего ШРУСа в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена внутреннего ШРУСа в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0085">
+<name>Замена наружного ШРУСа</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена наружного ШРУСа в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена наружного ШРУСа в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0086">
+<name>Замена пыльника ШРУСа</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена пыльника ШРУСа в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена пыльника ШРУСа в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0087">
+<name>Замена пыльника внутреннего ШРУСа</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3500</price>
+<currencyId>RUB</currencyId>
+<categoryId>104</categoryId>
+<description>Замена пыльника внутреннего ШРУСа в AvtoGin. Диагностика, согласование работ, подбор запчастей и аккуратное выполнение ремонта или обслуживания трансмиссии.</description>
+<shortDescription>Замена пыльника внутреннего ШРУСа в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0092">
+<name>Ремонт подвески</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Ремонт подвески в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Ремонт подвески в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0093">
+<name>Ремонт ходовой части</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Ремонт ходовой части в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Ремонт ходовой части в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0094">
+<name>Замена амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0095">
+<name>Замена передних амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена передних амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена передних амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0096">
+<name>Замена задних амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>4000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена задних амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена задних амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0097">
+<name>Замена стоек амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена стоек амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена стоек амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0098">
+<name>Замена опор амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена опор амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена опор амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0099">
+<name>Замена пыльников амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена пыльников амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена пыльников амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0100">
+<name>Замена отбойников амортизаторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена отбойников амортизаторов в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена отбойников амортизаторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0101">
+<name>Замена стоек стабилизатора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена стоек стабилизатора в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена стоек стабилизатора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0102">
+<name>Замена втулок стабилизатора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена втулок стабилизатора в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена втулок стабилизатора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0103">
+<name>Замена рычагов подвески</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена рычагов подвески в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена рычагов подвески в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0104">
+<name>Замена сайлентблоков</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2500</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена сайлентблоков в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена сайлентблоков в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0105">
+<name>Замена шаровых опор</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена шаровых опор в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена шаровых опор в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0106">
+<name>Замена ступицы</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена ступицы в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена ступицы в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0107">
+<name>Замена ступичного подшипника</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена ступичного подшипника в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена ступичного подшипника в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0108">
+<name>Замена пружин подвески</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена пружин подвески в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена пружин подвески в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0109">
+<name>Замена подрамника</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена подрамника в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена подрамника в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0110">
+<name>Замена ШРУСа приводного вала</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Замена ШРУСа приводного вала в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Замена ШРУСа приводного вала в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0111">
+<name>Регулировка углов установки колес</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2300</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Регулировка углов установки колес в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Регулировка углов установки колес в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0112">
+<name>Проверка углов установки колес</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Проверка углов установки колес в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Проверка углов установки колес в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0113">
+<name>Развал-схождение</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2300</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Развал-схождение в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Развал-схождение в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0114">
+<name>Развал-схождение 3D</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2300</price>
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<description>Развал-схождение 3D в Екатеринбурге. Проверяем ходовую часть, выявляем причину стука, люфта или вибрации и согласовываем ремонт до начала работ.</description>
+<shortDescription>Развал-схождение 3D в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0115">
+<name>Ремонт рулевого управления</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Ремонт рулевого управления в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Ремонт рулевого управления в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0116">
+<name>Замена рулевой рейки</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Замена рулевой рейки в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Замена рулевой рейки в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0117">
+<name>Ремонт рулевой рейки</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>10000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Ремонт рулевой рейки в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Ремонт рулевой рейки в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0118">
+<name>Замена рулевых наконечников</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Замена рулевых наконечников в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Замена рулевых наконечников в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0119">
+<name>Замена рулевых тяг</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Замена рулевых тяг в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Замена рулевых тяг в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0120">
+<name>Замена пыльников рулевой рейки</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Замена пыльников рулевой рейки в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Замена пыльников рулевой рейки в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0121">
+<name>Замена насоса ГУР</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Замена насоса ГУР в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Замена насоса ГУР в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0122">
+<name>Ремонт гидроусилителя руля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>106</categoryId>
+<description>Ремонт гидроусилителя руля в AvtoGin. Диагностика рулевого управления, проверка люфтов, течей и состояния узлов, ремонт с согласованием деталей.</description>
+<shortDescription>Ремонт гидроусилителя руля в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0123">
+<name>Замена тормозных колодок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозных колодок в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозных колодок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0124">
+<name>Замена передних тормозных колодок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена передних тормозных колодок в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена передних тормозных колодок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0125">
+<name>Замена задних тормозных колодок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена задних тормозных колодок в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена задних тормозных колодок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0126">
+<name>Замена задних барабанных колодок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена задних барабанных колодок в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена задних барабанных колодок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0127">
+<name>Замена тормозных дисков</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозных дисков в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозных дисков в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0128">
+<name>Замена тормозных барабанов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозных барабанов в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозных барабанов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0129">
+<name>Замена тормозного суппорта</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозного суппорта в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозного суппорта в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0130">
+<name>Замена тормозного цилиндра</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозного цилиндра в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозного цилиндра в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0131">
+<name>Замена тормозного шланга</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозного шланга в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозного шланга в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0132">
+<name>Замена тормозных трубок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена тормозных трубок в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена тормозных трубок в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0133">
+<name>Замена троса ручника</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Замена троса ручника в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Замена троса ручника в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0134">
+<name>Обслуживание тормозных механизмов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Обслуживание тормозных механизмов в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Обслуживание тормозных механизмов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0135">
+<name>Ремонт тормозной системы</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<description>Ремонт тормозной системы в Екатеринбурге. Проверяем тормозную систему, износ деталей и выполняем замену или ремонт с учетом безопасности автомобиля.</description>
+<shortDescription>Ремонт тормозной системы в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0136">
+<name>Ремонт автоэлектрики</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Ремонт автоэлектрики в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Ремонт автоэлектрики в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0137">
+<name>Замена аккумулятора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>500</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Замена аккумулятора в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Замена аккумулятора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0138">
+<name>Замена стартера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Замена стартера в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Замена стартера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0139">
+<name>Ремонт стартера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Ремонт стартера в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Ремонт стартера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0140">
+<name>Замена генератора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Замена генератора в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Замена генератора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0141">
+<name>Ремонт генератора</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Ремонт генератора в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Ремонт генератора в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0142">
+<name>Замена ламп освещения</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>200</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Замена ламп освещения в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Замена ламп освещения в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0143">
+<name>Замена блоков розжига</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>500</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Замена блоков розжига в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Замена блоков розжига в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0144">
+<name>Замена предохранителей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>200</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Замена предохранителей в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Замена предохранителей в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0148">
+<name>Установка парктроников</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Установка парктроников в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Установка парктроников в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0149">
+<name>Установка камеры заднего вида</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Установка камеры заднего вида в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Установка камеры заднего вида в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0150">
+<name>Установка дополнительного оборудования</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>108</categoryId>
+<description>Установка дополнительного оборудования в AvtoGin. Ищем причину неисправности, проверяем цепи и элементы, согласовываем решение до выполнения работ.</description>
+<shortDescription>Установка дополнительного оборудования в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0151">
+<name>Диагностика кондиционера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Диагностика кондиционера в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Диагностика кондиционера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0152">
+<name>Заправка кондиционера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Заправка кондиционера в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Заправка кондиционера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0153">
+<name>Ремонт кондиционера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Ремонт кондиционера в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Ремонт кондиционера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0154">
+<name>Замена компрессора кондиционера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Замена компрессора кондиционера в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Замена компрессора кондиционера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0155">
+<name>Замена радиатора кондиционера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Замена радиатора кондиционера в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Замена радиатора кондиционера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0156">
+<name>Антибактериальная обработка кондиционера</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Антибактериальная обработка кондиционера в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Антибактериальная обработка кондиционера в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0157">
+<name>Озонирование салона</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Озонирование салона в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Озонирование салона в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0158">
+<name>Дезинфекция системы кондиционирования</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>109</categoryId>
+<description>Дезинфекция системы кондиционирования в Екатеринбурге. Проверяем работу системы, ищем причину слабого охлаждения, запаха или неисправности и предлагаем решение.</description>
+<shortDescription>Дезинфекция системы кондиционирования в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0167">
+<name>Сезонное хранение шин</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>110</categoryId>
+<description>Сезонное хранение шин в AvtoGin. Аккуратно выполняем работу, проверяем состояние колес и даем рекомендации по безопасной эксплуатации.</description>
+<shortDescription>Сезонное хранение шин в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0169">
+<name>Кузовной ремонт</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>111</categoryId>
+<description>Кузовной ремонт в Екатеринбурге. Оцениваем повреждения кузова, подбираем оптимальный вариант восстановления и заранее согласовываем объем работ, сроки и стоимость.</description>
+<shortDescription>Кузовной ремонт в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0172">
+<name>Замена кузовных элементов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>111</categoryId>
+<description>Замена кузовных элементов в Екатеринбурге. Оцениваем состояние автомобиля, согласовываем объем работ и выполняем восстановление или уход по задаче клиента.</description>
+<shortDescription>Замена кузовных элементов в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0173">
+<name>Покраска кузова</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>111</categoryId>
+<description>Покраска кузова в Екатеринбурге. Оцениваем состояние автомобиля, согласовываем объем работ и выполняем восстановление или уход по задаче клиента.</description>
+<shortDescription>Покраска кузова в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0174">
+<name>Локальная покраска</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>111</categoryId>
+<description>Локальная покраска в Екатеринбурге. Оцениваем состояние автомобиля, согласовываем объем работ и выполняем восстановление или уход по задаче клиента.</description>
+<shortDescription>Локальная покраска в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0176">
+<name>Полировка фар</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>111</categoryId>
+<description>Полировка фар в Екатеринбурге. Оцениваем состояние автомобиля, согласовываем объем работ и выполняем восстановление или уход по задаче клиента.</description>
+<shortDescription>Полировка фар в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0178">
+<name>Подбор и заказ запчастей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Подбор и заказ запчастей в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Подбор и заказ запчастей в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0179">
+<name>Подбор оригинальных запчастей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Подбор оригинальных запчастей в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Подбор оригинальных запчастей в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0180">
+<name>Подбор аналогов запчастей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Подбор аналогов запчастей в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Подбор аналогов запчастей в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0181">
+<name>Подбор артикулов запчастей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Подбор артикулов запчастей в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Подбор артикулов запчастей в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0182">
+<name>Запчасти для китайских автомобилей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Запчасти для китайских автомобилей в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Запчасти для китайских автомобилей в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0183">
+<name>Запчасти для иномарок</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Запчасти для иномарок в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Запчасти для иномарок в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0184">
+<name>Запчасти под заказ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Запчасти под заказ в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Запчасти под заказ в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0185">
+<name>Контрактные запчасти</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>112</categoryId>
+<description>Контрактные запчасти в AvtoGin. Подбираем совместимые детали под автомобиль, согласовываем варианты по бюджету и фиксируем историю установленных запчастей.</description>
+<shortDescription>Контрактные запчасти в AvtoGin</shortDescription>
+<url>https://avtogin.ru/zapchasti</url>
+</offer>
+<offer id="AVTOGIN-0186">
+<name>ПОДБОР АВТО под ключ</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>ПОДБОР АВТО под ключ в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>ПОДБОР АВТО под ключ в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0187">
+<name>Эксперт на день</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Эксперт на день в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Эксперт на день в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0188">
+<name>Проверка автомобиля перед покупкой</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Проверка автомобиля перед покупкой в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Проверка автомобиля перед покупкой в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0190">
+<name>Автоэксперт перед покупкой</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Автоэксперт перед покупкой в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Автоэксперт перед покупкой в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0191">
+<name>Проверка кузова толщиномером</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Проверка кузова толщиномером в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Проверка кузова толщиномером в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0192">
+<name>Проверка юридической чистоты автомобиля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Проверка юридической чистоты автомобиля в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Проверка юридической чистоты автомобиля в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0193">
+<name>Проверка автомобиля на подъемнике</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Проверка автомобиля на подъемнике в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Проверка автомобиля на подъемнике в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0194">
+<name>Сопровождение сделки купли-продажи</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Сопровождение сделки купли-продажи в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Сопровождение сделки купли-продажи в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0195">
+<name>Подбор автомобиля с пробегом</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>113</categoryId>
+<description>Подбор автомобиля с пробегом в Екатеринбурге. Проверяем техническое состояние, кузов, документы и риски перед покупкой автомобиля с пробегом.</description>
+<shortDescription>Подбор автомобиля с пробегом в AvtoGin</shortDescription>
+<url>https://avtogin.ru/avtopodbor</url>
+</offer>
+<offer id="AVTOGIN-0196">
+<name>Обслуживание таксопарков</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>114</categoryId>
+<description>Обслуживание таксопарков в AvtoGin. Помогаем бизнесу обслуживать автомобили, контролировать ремонт, запчасти и расходы на содержание транспорта.</description>
+<shortDescription>Обслуживание таксопарков в AvtoGin</shortDescription>
+<url>https://avtogin.ru/obsluzhivanie-taksoparkov</url>
+</offer>
+<offer id="AVTOGIN-0197">
+<name>Обслуживание корпоративных автомобилей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>114</categoryId>
+<description>Обслуживание корпоративных автомобилей в AvtoGin. Помогаем бизнесу обслуживать автомобили, контролировать ремонт, запчасти и расходы на содержание транспорта.</description>
+<shortDescription>Обслуживание корпоративных автомобилей в AvtoGin</shortDescription>
+<url>https://avtogin.ru/obsluzhivanie-taksoparkov</url>
+</offer>
+<offer id="AVTOGIN-0198">
+<name>Ремонт автопарков</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>114</categoryId>
+<description>Ремонт автопарков в AvtoGin. Помогаем бизнесу обслуживать автомобили, контролировать ремонт, запчасти и расходы на содержание транспорта.</description>
+<shortDescription>Ремонт автопарков в AvtoGin</shortDescription>
+<url>https://avtogin.ru/obsluzhivanie-taksoparkov</url>
+</offer>
+<offer id="AVTOGIN-0199">
+<name>Техническое обслуживание автопарков</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>114</categoryId>
+<description>Техническое обслуживание автопарков в AvtoGin. Помогаем бизнесу обслуживать автомобили, контролировать ремонт, запчасти и расходы на содержание транспорта.</description>
+<shortDescription>Техническое обслуживание автопарков в AvtoGin</shortDescription>
+<url>https://avtogin.ru/obsluzhivanie-taksoparkov</url>
+</offer>
+<offer id="AVTOGIN-0201">
+<name>Ремонт мототехники</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Ремонт мототехники в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Ремонт мототехники в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0202">
+<name>Ремонт мотоциклов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Ремонт мотоциклов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Ремонт мотоциклов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0203">
+<name>Обслуживание мотоциклов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2500</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Обслуживание мотоциклов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Обслуживание мотоциклов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0204">
+<name>Диагностика мотоциклов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Диагностика мотоциклов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Диагностика мотоциклов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0205">
+<name>Ремонт квадроциклов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Ремонт квадроциклов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Ремонт квадроциклов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0206">
+<name>Обслуживание квадроциклов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2500</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Обслуживание квадроциклов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Обслуживание квадроциклов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0207">
+<name>Диагностика квадроциклов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Диагностика квадроциклов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Диагностика квадроциклов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0208">
+<name>Ремонт лодочных моторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Ремонт лодочных моторов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Ремонт лодочных моторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0209">
+<name>Обслуживание лодочных моторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2500</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Обслуживание лодочных моторов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Обслуживание лодочных моторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0210">
+<name>Диагностика лодочных моторов</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>115</categoryId>
+<description>Диагностика лодочных моторов в Екатеринбурге. Берем в работу технику, с которой можем дать понятный результат: диагностика, обслуживание и ремонт по согласованию.</description>
+<shortDescription>Диагностика лодочных моторов в AvtoGin</shortDescription>
+<url>https://avtogin.ru/remont-mototehniki-kvadrociklov-lodochnyh-motorov-ekaterinburg</url>
+</offer>
+<offer id="AVTOGIN-0211">
+<name>Горит Check Engine</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Горит Check Engine. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Горит Check Engine в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0212">
+<name>Машина не заводится</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Машина не заводится. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Машина не заводится в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0213">
+<name>Стук в подвеске</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Стук в подвеске. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Стук в подвеске в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0214">
+<name>Вибрация автомобиля</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Вибрация автомобиля. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Вибрация автомобиля в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0215">
+<name>Вибрация двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Вибрация двигателя. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Вибрация двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0216">
+<name>Автомобиль тянет в сторону</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Автомобиль тянет в сторону. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Автомобиль тянет в сторону в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0217">
+<name>Скрипят тормоза</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Скрипят тормоза. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Скрипят тормоза в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0218">
+<name>Бьет руль</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Бьет руль. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Бьет руль в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0219">
+<name>Перегрев двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Перегрев двигателя. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Перегрев двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0220">
+<name>Течет антифриз</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Течет антифриз. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Течет антифриз в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0221">
+<name>Течет масло</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Течет масло. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Течет масло в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0222">
+<name>Повышенный расход масла</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Повышенный расход масла. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Повышенный расход масла в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0223">
+<name>Не работает кондиционер</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Не работает кондиционер. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Не работает кондиционер в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0224">
+<name>Горит ABS</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Горит ABS. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Горит ABS в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0225">
+<name>Горит подушка безопасности</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Горит подушка безопасности. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Горит подушка безопасности в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0226">
+<name>Шум двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Шум двигателя. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Шум двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0227">
+<name>Гул подшипника</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Гул подшипника. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Гул подшипника в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0228">
+<name>Пинается АКПП</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Пинается АКПП. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Пинается АКПП в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0229">
+<name>Дергается автомобиль</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Дергается автомобиль. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Дергается автомобиль в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0230">
+<name>Пропала тяга двигателя</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>116</categoryId>
+<description>Пропала тяга двигателя. Поможем разобраться в причине проблемы, провести диагностику и согласовать ремонт без лишних замен наугад.</description>
+<shortDescription>Пропала тяга двигателя в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0231">
+<name>Ремонт BMW</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт BMW в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт BMW в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0232">
+<name>Ремонт Mercedes</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Mercedes в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Mercedes в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0233">
+<name>Ремонт Audi</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Audi в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Audi в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0234">
+<name>Ремонт Volkswagen</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Volkswagen в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Volkswagen в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0235">
+<name>Ремонт Toyota</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Toyota в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Toyota в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0236">
+<name>Ремонт Kia</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Kia в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Kia в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0237">
+<name>Ремонт Hyundai</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Hyundai в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Hyundai в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0238">
+<name>Ремонт Mazda</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт Mazda в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт Mazda в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+<offer id="AVTOGIN-0239">
+<name>Ремонт китайских автомобилей</name>
+<vendor>Автосервис и Автоподбор AvtoGin</vendor>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>117</categoryId>
+<description>Ремонт китайских автомобилей в Екатеринбурге. Диагностика, ремонт, ТО и подбор запчастей с учетом особенностей марки автомобиля.</description>
+<shortDescription>Ремонт китайских автомобилей в AvtoGin</shortDescription>
+<url>https://avtogin.ru</url>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
